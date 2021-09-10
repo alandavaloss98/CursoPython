@@ -1,0 +1,2 @@
+# CursoPython
+Prácticas de python
